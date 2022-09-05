@@ -5,7 +5,7 @@
  
  We will have:
  
- PW (Web Project);</br>
+ PW (Web Programmation);</br>
  BD (Data Bank);</br>
  SSI (Security Sistem Integrated);</br>
  PAM (Mobile applications programming);</br>
