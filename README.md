@@ -5,8 +5,8 @@
  
  We will have:
  
- PW (Web Project);
- BD (Data Bank);
- SSI (Security Sistem Integrated);
- PAM (Mobile applications programming);
- TCC (Work of Course Conclusion);
+ PW (Web Project);</br>
+ BD (Data Bank);</br>
+ SSI (Security Sistem Integrated);</br>
+ PAM (Mobile applications programming);</br>
+ TCC (Work of Course Conclusion);</br>
